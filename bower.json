@@ -1,0 +1,13 @@
+{
+  "name": "d3",
+  "version": "0.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap-flatly": "*",
+    "jquery": "2.1.1",
+    "threejs": "r67",
+    "topojson": "1.1.0",
+    "underscore": "1.6.0",
+    "zepto": "1.1.3"
+  }
+}
